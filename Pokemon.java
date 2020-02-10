@@ -10,214 +10,27 @@ public class Pokemon
 	private int attack;
 	
   
-  public Pokemon(){
+public Pokemon(){
         //Hp start at 50
         hp = 50 ;
         exp = 0 ;
         attack = 100 ;
+        //Test
+        //d/test
 	}
-	
-	
-  
-  public String setName(){
+public  setName(){
         name = "David";
-      return name ;
+      
 	} 
 	
   
-  public  changeName(String newName){
+public  changeName(String newName){
 		name = newName;
 	}   
 
 
-	
-  
-  
-
-
- }
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
+
+
+	
+ 
